@@ -11,7 +11,7 @@
 
 :root {
   --black: #222222;
-  --blue: #198cff;
+  --blue: #d119ff;
   --gray: #aaaaaa;
 }
 
@@ -103,7 +103,7 @@ h1 {
 }
 
 .add span:hover {
-  background-color: #3698fa;
+  background-color: #fa36fa;
 }
 
 ul li {
@@ -118,20 +118,20 @@ ul li {
   padding: 0px 30px 0px 30px;
   margin-bottom: 30px;
   background-color: #fff;
-  box-shadow: 0px 2px 0px #198cff;
+  box-shadow: 0px 2px 0px #d119ff;
 }
 
 ul li:hover {
   color: #fff;
   cursor: pointer;
   background-color: var(--blue);
-  box-shadow: 0px 15px 15px #198cff40;
+  box-shadow: 0px 15px 15px  #f799f7;
 }
 
 ul li.checked {
   color: #fff;
   text-decoration: line-through;
-  background-color: #198cff80;
+  background-color:  #f799f7;
   box-shadow: none;
 }
 
