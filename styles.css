@@ -53,7 +53,10 @@ header {
 header .container {
   justify-content: center;
 }
-
+.logo  img{
+  width: 100px;
+  height: 100px;
+}
 /* ============================================ main ============================================ */
 
 main {
